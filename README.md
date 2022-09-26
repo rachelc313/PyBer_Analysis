@@ -41,9 +41,7 @@ The analysis of the Pyber data provided show that:
  
  ![pyber_summary_table](https://user-images.githubusercontent.com/111570965/192357973-5a6ce2b6-f13c-4207-9c93-7b06902c1181.png)
 
- ![fig5](https://user-images.githubusercontent.com/111570965/192357986-b19a9e0f-595f-4e87-a980-ef5345a69b24.png)
- ![fig6](https://user-images.githubusercontent.com/111570965/192358012-4b601840-1059-4aa6-ae6b-318d45d84b8f.png)
-![fig7](https://user-images.githubusercontent.com/111570965/192358023-70abeb3c-ead3-4020-bbc2-5fd38cbafcd0.png)
 
+![fig6](https://user-images.githubusercontent.com/111570965/192358012-4b601840-1059-4aa6-ae6b-318d45d84b8f.png) ![fig7](https://user-images.githubusercontent.com/111570965/192358023-70abeb3c-ead3-4020-bbc2-5fd38cbafcd0.png) ![fig5](https://user-images.githubusercontent.com/111570965/192357986-b19a9e0f-595f-4e87-a980-ef5345a69b24.png)
 
 ## Summary
