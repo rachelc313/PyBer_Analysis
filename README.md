@@ -39,3 +39,13 @@ The analysis of the Pyber data provided show that:
  - The "Urban" city type had the highest total rides, total drivers, and total fares. They had the lowest average fare per ride and driver compared to the other two city types.
  - The "Rural" city type had the lowest total rides, total drivers, and total fares. They had the highest average fare per ride and driver compared to the other two city types.
 ## Summary
+Below are recommendations to address the disparities among the city types:
+- The disparities are most likely explained by the distance of the rides themselves. Perhaps in rural cities, offering a larger payout to cover gas expenses but also increasing the price of the rides so there is incentive for the current drivers to drive more.
+- Incentives could be offered to drivers from surrounding cities to go into the rural cities and take more rides. Perhaps Urban drivers could be offered such an incentive starting at the end of April when the fares drop significantly. Before making this decision, a closer look into what drops, when and why would be necessary.
+- As seen in the below line graph: towards the end of February, each of the city types had a spike in fares. Taking advantage of this, and increasing at least the Rural and Suburban prices could be beneficial. 
+
+
+
+## Limitations
+Below are limitations in the provided dataset:
+- After the two DataFrames were merged into a single dataset, there was a discrepancy found when calculating the driver counts using the merged dataset. Upon further investigation, there were 2255 "city" duplicates found. These rows could not be removed because the other columns are critical to the analysis. For this area, the "city_df" DataFrame was used to accurately count the number of drivers for each city type. 
