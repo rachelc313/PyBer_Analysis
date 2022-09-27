@@ -38,6 +38,12 @@ The analysis of the Pyber data provided show that:
         - Average fare per driver: $16.57
  - The "Urban" city type had the highest total rides, total drivers, and total fares. They had the lowest average fare per ride and driver compared to the other two city types.
  - The "Rural" city type had the lowest total rides, total drivers, and total fares. They had the highest average fare per ride and driver compared to the other two city types.
+ 
+ ![pyber_summary_table](https://user-images.githubusercontent.com/111570965/192357973-5a6ce2b6-f13c-4207-9c93-7b06902c1181.png)
+
+
+![fig6](https://user-images.githubusercontent.com/111570965/192358012-4b601840-1059-4aa6-ae6b-318d45d84b8f.png) ![fig7](https://user-images.githubusercontent.com/111570965/192358023-70abeb3c-ead3-4020-bbc2-5fd38cbafcd0.png) ![fig5](https://user-images.githubusercontent.com/111570965/192357986-b19a9e0f-595f-4e87-a980-ef5345a69b24.png)
+
 ## Summary
 Below are recommendations to address the disparities among the city types:
 - The disparities are most likely explained by the distance of the rides themselves. Perhaps in rural cities, offering a larger payout to cover gas expenses but also increasing the price of the rides so there is incentive for the current drivers to drive more.
