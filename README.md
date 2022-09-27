@@ -50,6 +50,7 @@ Below are recommendations to address the disparities among the city types:
 - Incentives could be offered to drivers from surrounding cities to go into the rural cities and take more rides. Perhaps Urban drivers could be offered such an incentive starting at the end of April when the fares drop significantly. Before making this decision, a closer look into what drops, when and why would be necessary.
 - As seen in the below line graph: towards the end of February, each of the city types had a spike in fares. Taking advantage of this, and increasing at least the Rural and Suburban prices could be beneficial. 
 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/111570965/192652355-1b34fb7e-5b67-4e35-a2ff-efe10f1e6f4d.png)
 
 
 ## Limitations
